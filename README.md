@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# How to Build a NETFLIX Clone with REACT JS for Beginners (3 Hours tutorials)
+
+## Credit
+
+[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+
+- Building a Netflix Clone App
+- Deploying a React app with Firebase hosting
+- Real-time database with Firebase's FireStore
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
